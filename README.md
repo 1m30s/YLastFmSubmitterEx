@@ -15,12 +15,16 @@ Windows XP or later.
 Microsoft Visual C# 2010
 
 # Usage
-* YLastFmSubmitter help
-* Read source code.
+* "YLastFmSubmitter help"
+* For more information, read source code.
+
 ## Command
-* play "SongTitle" "Artist" duration(sec)
-* scrobble
-* q
+* 1) send current playing song info
+    * play "[SongTitle]" "[Artist]" [duration(sec)]
+* 2) send scrobbling info (same song to last "play" command)
+    * scrobble
+* 3) quit application
+    * q
 
 
 # License
