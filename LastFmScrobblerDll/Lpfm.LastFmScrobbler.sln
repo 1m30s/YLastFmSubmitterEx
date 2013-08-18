@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lpfm.LastFmScrobbler", "Lpfm.LastFmScrobbler.csproj", "{BA7F7E8A-B089-4323-8C8D-F406E7AFCDBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA7F7E8A-B089-4323-8C8D-F406E7AFCDBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA7F7E8A-B089-4323-8C8D-F406E7AFCDBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA7F7E8A-B089-4323-8C8D-F406E7AFCDBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA7F7E8A-B089-4323-8C8D-F406E7AFCDBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
